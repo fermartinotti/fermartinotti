@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Fernando Martinotti</h1>
-<h3 align="center">Me desempeño actualmente como Arquitecto de software</h3>
+<h3 align="center">Me desempeño actualmente como Arquitecto de software y desarrollador de iOS</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
